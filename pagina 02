@@ -1,0 +1,70 @@
+<html>
+<head>
+    <title>
+        Top 5 Filmes de Terror Trash
+    </title>
+    <style>
+        body {background-color: #a67171}
+    </style>
+</head>
+<body>
+    <h1>Uma lista de cinco filmes onde objetos inanimados ganham vida e se tornam assassinos.</h1>
+    <ol type="1">
+        <li> <a href="#tomates">O ataque dos tomates assassinos (1978)</a> </li>
+        <li> <a href="#carro">Christine – O Carro assassino (1983)</a> </li>
+        <li> <a href="#geladeira">A geladeira diabólica (1991)</a> </li>
+        <li> <a href="#camisinha">A camisinha assassina (1996)</a> </li>
+        <li> <a href="#cama">Death bed: the bed that eats (1977)</a> </li>
+    </ol>
+    <h2 id="tomates">O ataque dos tomates assassinos (1978)</h2>
+    <img src = "../tomates.jpg">
+    <p>Um dos grandes clássicos do cinema Trash, O Ataque dos Tomates Assassinos (Attack of the Killer Tomatoes, 1978) completa 40 anos. A trama começa com a morte de uma mulher em sua casa. Quando a polícia chega, percebem que não há sangue, apenas suco de tomate. A partir de então, descobre-se que os tomates são fruto de experiências genéticas mal sucedidas do governo norte-americano, que passa a tentar encobrir o caso.</p>
+    <p>Medo: 6/10</p>
+    <p>Efeitos visuais: 2/10</p>
+    <p>Drama: 10/10</p>
+    <p>Agilidade dos objetos: 5/10</p>
+    <p>Relevância: 7/10</p>
+    
+    <h2 id="carro">Christine – O Carro assassino (1983)</h2>
+    <img src = "../carro.jpg">
+    <p>Christine – O Carro Assassino (Christine, 1983) foi baseado no livro homônimo de Stephen King e produzido por John Carpenter, famoso por suas produções de suspense e terror. Ainda assim, não é um filme assustador, mas possui enredo atrativo, que envolve uma trama típica de adolescentes americanos e um Plymouth Fury 1958 vermelho possuído. </br>     Tudo começa quando Arnie Cunningham, nerd tradicional do cinema, encontra o carro praticamente destruído a venda e se apaixona instantaneamente. Seu melhor amigo, Dennis Guilder, tenta convencê-lo a desistir da compra, mas Arnie não o escuta, e passa a dedicar seu tempo integralmente para reparar Christine. Durante este processo, o estudante começa a se afastar de sua família e amigos, e sua personalidade vai mudando completamente. A boa atuação de Keith Gordon é essencial para demonstrar tal transformação.</p>
+    <p>Medo: 6/10</p>
+    <p>Efeitos visuais: 2/10</p>
+    <p>Drama: 10/10</p>
+    <p>Agilidade dos objetos: 5/10</p>
+    <p>Relevância: 7/10</p>
+    
+    <h2 id="geladeira">A geladeira diabólica (1991)</h2>
+    <img src = "../geladeira.jpg">
+    <p>A Geladeira Diabólica (The Refrigerator, 1991) não se propõe a ser um filme de comédia. Criado com a ideia de ser um filme de terror e suspense, o filme peca em ação, mas esbanja criatividade. O roteiro não traz o suspense e a ação necessária para aterrorizar o espectador, mesmo assim é inegável que possui originalidade, o que torna a narrativa mais interessante.</br>Tudo começa quando Steve Bateman recebe uma proposta de emprego em Nova Iorque e decide se mudar junto de sua esposa, Eileen. Ele é seduzido pelo baixo preço a alugar um pequeno apartamento com apenas alguns móveis no subúrbio da cidade. O que Steve não sabe é que o apartamento possui um histórico de mortes e crimes misteriosos.</br> Com o desenrolar da trama, coisas estranhas vão acontecendo, e a geladeira vai se mostrando possuída. Controla não apenas os objetos ao seu redor, mas também entra na mente de Bateman e em seus sonhos, lentamente modificando a personalidade de Steve (destaque para a atuação de Dave Simonds, transformando-se completamente ao longo da narrativa). Desta forma, ela começa a atrair suas presas para dentro de seu portal interior que leva diretamente ao mundo dos mortos.</p>
+    <p>Medo: 6/10</p>
+    <p>Efeitos visuais: 2/10</p>
+    <p>Drama: 10/10</p>
+    <p>Agilidade dos objetos: 5/10</p>
+    <p>Relevância: 7/10</p>
+    
+    <h2 id="camisinha">A camisinha assassina (1996)</h2>
+    <img src = "../camisinha.webp">
+    <p>Baseado nos quadrinhos do cartunista Ralf König, é uma mistura de comédia com terror que ainda traz à tona questionamentos sociais como a homofobia e a prostituição. Grande parte da história acontece em um motel de segunda, chamado Quickie, onde acontecem os primeiros casos de homens que têm seus órgãos sexuais degolados.</br>Quem assume o caso é o detetive Luigi Mackeroni (Udo Samel), italiano truculento, típico investigador linha dura. Mackeroni também é um frequentador assíduo do Quickie e que tem seu testículo direito arrancado por uma camisinha. Passa então a se dedicar ao caso, sendo tratado como louco por acreditar que há uma camisinha assassina no motel, enquanto seus chefes defendem a ideia de que quem estaria cometendo os crimes seriam prostitutas.</p>
+    <p>Medo: 6/10</p>
+    <p>Efeitos visuais: 2/10</p>
+    <p>Drama: 10/10</p>
+    <p>Agilidade dos objetos: 5/10</p>
+    <p>Relevância: 7/10</p>
+
+    
+    <h2 id="cama">Death bed: the bed that eats (1977)</h2>
+    <img src = "../cama.jpg">
+    <p>Não tem nada melhor que ser engolido por sua cama após um dia estressante. A não ser que ela seja a Death Bed, que solta uma espuma e digere tudo que há ao seu alcance. A história de Death bed: The bed that eats (1977) está dividida em três períodos: café da manhã, almoço e jantar. Em cada um destes a cama faz diferentes vítimas e um pouco de sua história é revelada pelo Artista, um homem preso em sua própria pintura e que observa tudo que se passa no quarto. Um a um as personagens são devoradas, e cabe a Diane e seu irmão, em um ritual bem confuso, vencer o demônio que habita a cama. </br> Na tentativa de criar um filme artístico de terror, o diretor George Barry abusou dos efeitos especiais que tinha na época. O problema é que os longos monólogos, o roteiro nonsense e o fraco elenco resultaram em um filme parado, que não assusta e não prende o espectador. Mas como grande parte dos filmes dessa lista, é extremamente original e peculiar.</p>
+    <p>Medo: 6/10</p>
+    <p>Efeitos visuais: 2/10</p>
+    <p>Drama: 10/10</p>
+    <p>Agilidade dos objetos: 5/10</p>
+    <p>Relevância: 7/10</p>
+    
+</body>
+<footer>
+    <p style = "text-align: left"><a href="pag01.html" rel = "next">Minhas Séries Favoritas</a></p>
+    <p style = "text-align: right"><a href="pag03.html" rel = "next">Top 5 Filmes de Zumbi.</a></p>
+</footer>
+</html>

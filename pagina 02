@@ -66,5 +66,6 @@
 <footer>
     <p style = "text-align: left"><a href="pag01.html" rel = "next">Minhas Séries Favoritas</a></p>
     <p style = "text-align: right"><a href="pag03.html" rel = "next">Top 5 Filmes de Zumbi.</a></p>
+    <p> Karina Martins &copy; 2023 </p>
 </footer>
 </html>

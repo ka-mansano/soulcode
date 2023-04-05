@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>
+        Minhas séries favoritas
+    </title>
+    <style>
+        body {background-color: #e6e5dc;}
+    </style>
+</head>
+<body>
+    <h1> Lista com as minhas cinco séries preferidas </h1>
+    <p>Organizadas por ordem aleatória</p>
+<ul type = "circle">
+    <h1><font color=#a82076><li>Pose</h1></li>
+    <img src = "../Imagens/pose.jpg" style="height: 220px;"> <br/><br/>
+    <p>Pose, ambientada em 1987, acompanhamos Blanca (MJ Rodriguez), uma participante de bailes LGBTQ que acolhe algumas pessoas marginalizadas pela sociedade, como o talentoso dançarino sem-teto Damon (Ryan Jamaal Swain) e a profissional do sexo Angel (Indya Moore), que se apaixonou por um cliente. </br>Centrada na vida de Blanca, esta é uma história da cultura de bailes, da comunidade gay e trans, da crise violenta da AIDS e do declínio do capitalismo. Blanca se esforça para realizar seu sonho de abrir um salão de beleza bem-sucedido e poder ganhar seu próprio dinheiro sem depender de ninguém. Ela é incentivada pelo seu melhor amigo, Pray Tell, um homem gay que trabalha como MC dos bailes e é obrigado a lidar com o HIV. </br>A trama explora com sensibilidade as experiências de pessoas LGBTQ, especialmente as trans, entregando ao público um enredo emocionante e pouco visto.</font> </p>
+    <h2><font color=#303c5c><li>How I Met Your Father </h2></li>
+    <img src = "../Imagens/himyf.jpg" style="height: 220px;"> <br/><br/>
+    <p>A produção mostra um futuro próximo, quando Sophie (Duff) conta ao filho a história de como conheceu seu pai. Ela nos leva de volta ao ano de 2021, quando ela e seu grupo de amigos estão na época de descobrir quem são, o que querem da vida e como se apaixonar na era dos aplicativos de namoro e das limitadas opções. </br> Depois de muitos encontros ruins, ela pede ajuda dos amigos para finalmente encontrar o cara certo. Sophie divide apartamento com sua melhor amiga Valentina (Francia Raisa), uma estilista impulsiva que tem sido perseguida pelo apaixonado Charlie (Tom Ainsley). </br>Além disso, ela também é amiga de Jesse (Christopher Lowell) e Sid (Suraj Sharma), que moram no antigo apartamento de Ted, Marshall e Lily. Jesse tem uma irmã adotiva recém-divorciada, Ellen Gilbert (Tien Tran), que se torna colega de apartamento de Charlie. No futuro, a versão mais velha de Sophie (Kim Cattrall), está contando para os filhos a verdadeira história de como finalmente encontrou a pessoa certa.</font></p>
+    <h3><font color=#284028><li>How I Met Your Mother </h3></li>
+    <img src = "../Imagens/himym.jpg" style="height: 220px;"> <br/><br/>
+    <p>Em 2030, o arquiteto Ted Mosby (Josh Radnor) conta a história sobre como conheceu a mãe dos seus filhos. Ele volta no tempo para 2005, relembrando suas aventuras amorosas em Nova York e a busca pela mulher dos seus sonhos. Ao longo do anos, Ted aproveita para falar a jornada dos seus amigos: o advogado Marshall Eriksen (Jason Segel), a professora Lily Aldrin (Alyson Hannigan), a jornalista Robin Scherbatsky (Cobie Smulders) e o mulherengo convicto Barney Stinson (Neil Patrick Harris). </font></p>
+    <h4><font color=#9e0808><li>Casamento às Cegas </h4></li>
+    <img src = "../Imagens/casamento as cegas.jpg" style="height: 220px;"> <br/><br/>
+    <p>Será que o amor é mesmo cego? Para responder essa pergunta, Casamento às Cegas reuniu 15 homens e 15 mulheres em um experimento. Eles têm dez dias para conversar e, consequentemente, se apaixonar. Só que todo o processo acontece dentro de cabines individuais, onde se comunicam sem se verem. Ao final desse período, um pode pedir o outro em casamento e, assim, se conhecerem pessoalmente. Em seguida, os noivos viajam para uma espécie de pré lua de mel, moram juntos por algumas semanas e conhecem as famílias de cada um. </br>Mas é apenas no dia do casamento que eles decidem se ficam ou não juntos. </font></p>
+    <h5><font color=#bf6a28><li>Friends</h5></li>
+    <img src = "../Imagens/friends.jfif" style="height: 220px;"> <br/><br/>
+    <p>Seis jovens são unidos por laços familiares, românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York. Rachel é a garota mimada que deixa o noivo no altar para viver com a amiga dos tempos de escola Monica, sistemática e apaixonada pela culinária. </br>Monica é irmã de Ross, um paleontólogo que é abandonado pela esposa, que descobriu ser lésbica. Do outro lado do corredor do apartamento de Monica e Rachel, moram Joey, um ator frustrado, e Chandler, de profissão misteriosa. A turma é completa pela exótica Phoebe. </font></p>
+</ol>
+</body>
+<footer>
+    <p><b><font size="1"> Karina Mansano</b></p>
+    <p><a href = "https://www.linkedin.com/in/karinamansano/">Meu Linkedin</a></font></p>
+</footer>
+</html>

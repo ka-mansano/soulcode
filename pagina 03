@@ -65,5 +65,6 @@
 <footer>
     <p style = "text-align: left"><a href="pag01.html" rel = "prev">Minhas Séries Favoritas</a></p>
     <p style = "text-align: right"><a href="pag02.html" rel = "prev">Top 5 Filmes de Terror Trash.</a></p>
+    <p> Karina Martins &copy; 2023 </p>
 </footer>
 </html>

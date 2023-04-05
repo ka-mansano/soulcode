@@ -1,0 +1,69 @@
+<html>
+<head>
+    <title>
+        Top 5 Filmes de Zumbi
+    </title>
+    <style>
+        body {background-color: #809979; text-align: center;}
+    </style>
+</head>
+<body>
+    <h1>Uma lista de cinco filmes onde objetos inanimados ganham vida e se tornam assassinos.</h1>
+        <ol type="1">
+            <li> <a href="#volta">A VOLTA DOS MORTOS-VIVOS (1985)</a> </li>
+            <li> <a href="#dia">Dia dos Mortos (1985)</a> </li>
+            <li> <a href="#zumbilandia">Zumbilândia (2009)</a> </li>
+            <li> <a href="#sobreviver">Como Sobreviver a Um Ataque Zumbi (2015)</a> </li>
+            <li> <a href="#quase">Todo Mundo Quase Morto (2004)</a> </li>
+        </ol>
+        <h2 id="volta">A VOLTA DOS MORTOS-VIVOS (1985)</h2>
+        <img src = "../volta-dos-mortos-vivos.jpg">
+        <p>Um grupo de adolescentes busca um lugar para curtir, e decide fazer sua festinha no cemitério. O problema é que o local é vizinho a um galpão médico, que acidentalmente solta gases tóxicos na atmosfera. Quando a chuva cai, os mortos se levantam, e passam a perseguir os jovens. O longa marcou a estreia de Dan O’Bannon, roteirista de Alien - O Oitavo Passageiro (1978), na direção, e merece um espaço em toda boa maratona.</br>Além de ser um filme ridiculamente divertido, cheio de nojeira, gritaria e uma ótima trilha sonora, é altamente marcante. Se a sua imagem mental de zumbis são criaturas caindo aos pedaços, que rastejam dizendo “Braaaaains”, saiba que foi em A Volta dos Mortos-Vivos que isso surgiu.</p>
+        <p>Comédia: 6/10</p>
+        <p>Efeitos visuais: 2/10</p>
+        <p>Drama: 10/10</p>
+        <p>Agilidade dos zumbis: 5/10</p>
+        <p>Relevância: 7/10</p>
+        
+        <h2 id="dia">Dia dos Mortos (1985)</h2>
+        <img src = "../dia-dos-mortos.webp">
+        <p>O mundo é dominado por zumbis, existindo apenas um grupo de médicos e militares escondidos num búnquer na Florida. Os médicos usam os zumbis para experiências, no entanto os militares acabam descobrindo que eles também usaram alguns dos seus homens nesses experimentos. É nesse momento que tudo corre mal, com os militares a expulsarem os médicos do búnquer e com zumbis a conseguirem invadir o esconderijo.</p>
+        <p>Comédia: 7/10</p>
+        <p>Efeitos visuais: 6/10</p>
+        <p>Drama: 4/10</p>
+        <p>Agilidade dos zumbis: 5/10</p>
+        <p>Relevância: 3/10</p>
+        
+        <h2 id="zumbilandia">Zumbilândia (2009)</h2>
+        <img src = "../zumbilandia_cke.webp">
+        <p>Um grupo de adolescentes busca um lugar para curtir, e decide fazer sua festinha no cemitério. O problema é que o local é vizinho a um galpão médico, que acidentalmente solta gases tóxicos na atmosfera. Quando a chuva cai, os mortos se levantam, e passam a perseguir os jovens. O longa marcou a estreia de Dan O’Bannon, roteirista de Alien - O Oitavo Passageiro (1978), na direção, e merece um espaço em toda boa maratona.</br>Além de ser um filme ridiculamente divertido, cheio de nojeira, gritaria e uma ótima trilha sonora, é altamente marcante. Se a sua imagem mental de zumbis são criaturas caindo aos pedaços, que rastejam dizendo “Braaaaains”, saiba que foi em A Volta dos Mortos-Vivos que isso surgiu.</p>
+        <p>Comédia: 8/10</p>
+        <p>Efeitos visuais: 8/10</p>
+        <p>Drama: 6/10</p>
+        <p>Agilidade dos zumbis: 9/10</p>
+        <p>Relevância: 2/10</p>
+        
+        <h2 id="sobreviver">Como Sobreviver a Um Ataque Zumbi (2015)</h2>
+        <img src = "../como-sobreviver-a-um-ataque-zumbi_cke.webp">
+        <p>Os zumbis servem muito de inspiração não só para filmes de horror, mas também para muitas comédias, aliás você vai encontrar mais produções hilárias nesta lista. Como Sobreviver a Um Ataque Zumbi é mais um desses casos, no qual acompanhamos um grupo de escoteiros que tenta salvar a sua cidade depois desta ter sido alvo de um ataque de zumbis.</p>
+        <p>Comédia: 6/10</p>
+        <p>Efeitos visuais: 2/10</p>
+        <p>Drama: 10/10</p>
+        <p>Agilidade dos zumbis: 5/10</p>
+        <p>Relevância: 7/10</p>
+        
+        <h2 id="quase">Todo Mundo Quase Morto (2004)</h2>
+        <img src = "../todo-mundo-quase-morto_cke.webp">
+        <p>ste filme conta a história de Shaun, um cara que está quase comemorando o seu 30º aniversário e que ainda não atingiu muito na sua vida. Ele tem um trabalho chato, vai todos os dias ao mesmo bar e divide apartamento com um estudante...até que os mortos começam a caminhar! </br>Este filme encontra o equilíbrio perfeito entre um filme de terror e uma comédia, os personagens existem muito além das óbvias motivações humorísticas, tratando de temas familiares a todo o mundo. Além de mortos-vivos, o filme é centrado na amizade, no valor da família e na responsabilidade que o passar dos anos traz a cada um.</p>
+        <p>Comédia: 9/10</p>
+        <p>Efeitos visuais: 1/10</p>
+        <p>Drama: 3/10</p>
+        <p>Agilidade dos zumbis: 1/10</p>
+        <p>Relevância: 0/10</p>
+
+</body>
+<footer>
+    <p style = "text-align: left"><a href="pag01.html" rel = "prev">Minhas Séries Favoritas</a></p>
+    <p style = "text-align: right"><a href="pag02.html" rel = "prev">Top 5 Filmes de Terror Trash.</a></p>
+</footer>
+</html>

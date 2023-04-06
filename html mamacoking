@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <link href="mamaco.css" rel="stylesheet" type="text/css">
+  </head>
+      <body>
+        <h1> <caption>BLACK FRAUDE DO GERENTE!!!!!!</caption> </h1>
+      <div><table>
+        <th colspan="5";>Preços Promocionais da Mamaco King</th></tr>
+        <tr><td><b> Foto do Ítem </td>
+        <td><b>Nome do Ítem</td>
+        <td><b> Estoque </td>
+        <td><b> Preço Normal </td>
+        <td><b> Preço com Desconto</td></tr>
+        
+        <tr><td> <img src="../estojo.jfif"> </td>
+        <td>Estojo</td>
+        <td> 34 </td>
+        <td> R$ 50,00 </td>
+        <td> R$ 49,99 </td></tr>
+        
+        <tr><td> <img src="../caneta.webp"> </td>
+        <td>Caneta</td>
+        <td> 87 </td>
+        <td> R$ 5,00 </td>
+        <td> R$ 4,99 </td></tr>
+        
+        <tr><td> <img src="../borracha.jfif"> </td>
+        <td>Borracha</td>
+        <td> 278 </td>
+        <td> R$ 2,00 </td>
+        <td> R$ 1,99 </td></tr>
+        
+        <tr><td> <img src="../lapis.avif"> </td>
+        <td>Lapis</td>
+        <td> 76 </td>
+        <td> R$ 1,00 </td>
+        <td> R$ 0,99 </td></tr>
+        
+        <tr><td> <img src="../apontador.jfif"> </td>
+        <td>Apontador</td>
+        <td> 13 </td>
+        <td> R$ 10,00</td>
+        <td> R$ 9,99 </td></tr>
+                
+      </table></div>
+      
+  </body>
+</html>
